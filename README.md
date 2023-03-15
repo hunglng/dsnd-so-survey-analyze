@@ -19,12 +19,13 @@ For this project I want to use to analyze the change of using database over past
 3. What is the change of desired database 2021 and 2022?
 
 ## File Descriptions  <a name="files"></a>
-`database_analyze.ipynb` the notebook contains process to load, clean up data and analyze visualize data
-`split_multiple_choice.py` ulti function to split multiple choice question into multiple rows
-4 `png` chart are the result of visualization and will use for blog post
+- `database_analyze.ipynb` the notebook contains process to load, clean up data and analyze visualize data
+- `split_multiple_choice.py` ulti function to split multiple choice question into multiple rows
+- 4 `png` chart are the result of visualization and will use for blog post
+- `data\*.zip` data files need to extract before  using (github do not allow upload large file)
 
 ## Result <a name="results"></a>
-The finding of this project can be found in the blog post
+The finding of this project can be found in the blog [post](https://lngahu.wordpress.com/2023/03/15/database-that-developers-love-in-last-6-years/)
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
